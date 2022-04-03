@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue 
+Favorite food: Pizza
+Favorite musician/band: Alexander Boe 
+Favorite movie: Indiana Jones
+Requested grade in the course: 100 
